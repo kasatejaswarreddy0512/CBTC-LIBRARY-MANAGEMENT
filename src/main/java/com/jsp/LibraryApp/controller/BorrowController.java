@@ -143,26 +143,4 @@ public class BorrowController {
 		rs.setMessage("Borrow Details Delete Successfully.......!");
 		return rs;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 }
