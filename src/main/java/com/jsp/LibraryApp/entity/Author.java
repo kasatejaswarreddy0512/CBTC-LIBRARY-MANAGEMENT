@@ -47,10 +47,5 @@ public class Author {
 	}
 	public void setBook(Set<Book> book) {
 		this.book = book;
-	}
-	
-	  
-	
-	
-	
+	}	
 }
