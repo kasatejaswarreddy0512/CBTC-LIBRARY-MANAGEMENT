@@ -104,17 +104,6 @@ public class AuthorController {
 		rs.setStatusCode(HttpStatus.OK.value());
 		rs.setMessage("Author Delete Successfully.....!");
 		return rs;
-	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	}	
 	
 }
