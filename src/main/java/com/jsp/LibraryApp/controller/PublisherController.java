@@ -100,9 +100,5 @@ public class PublisherController {
 		rs.setStatusCode(HttpStatus.OK.value());
 		rs.setMessage("Delete Publisher Successfully....!");
 		return rs;
-	}
-	
-	
-	
-	
+	}	
 }
