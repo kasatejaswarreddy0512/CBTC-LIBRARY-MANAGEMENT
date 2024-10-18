@@ -141,19 +141,5 @@ public class BookController {
 		rs.setStatusCode(HttpStatus.OK.value());
 		rs.setMessage("Book Data Deleted Sucessfully.....!");
 		return rs;
-	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	}	
 }      
