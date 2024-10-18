@@ -72,10 +72,5 @@ public class Book {
 
 	public void setBorrow(Set<Borrow> borrow) {
 		this.borrow = borrow;
-	}
-	
-	
-	
-	
-	
+	}	
 }
